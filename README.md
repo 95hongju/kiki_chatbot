@@ -1,3 +1,4 @@
 # kiki_chatbot
 KIKI music chatbot (SSAFY2 DJ04)
-idk how to work in remote branch...
+
+![first_mention](./img/screenshot.PNG)
