@@ -13,8 +13,8 @@ from slack.web.classes.interactions import MessageInteractiveEvent
 from slackeventsapi import SlackEventAdapter
 
 
-SLACK_TOKEN = "xoxb-684642945377-679594662851-09ctR81ulEDjVI9HO80Xtbir"
-SLACK_SIGNING_SECRET = "687df6d8d6be6edcc8be315dcbd474a8"
+SLACK_TOKEN = ""
+SLACK_SIGNING_SECRET = ""
 
 
 app = Flask(__name__)
