@@ -1,4 +1,4 @@
 # kiki_chatbot
-KIKI music chatbot (SSAFY2 DJ04)
+KIKI music chatbot
 
 ![first_mention](./img/screenshot.PNG)
